@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/vr4.html"
+status = 200
